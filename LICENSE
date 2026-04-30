@@ -1,0 +1,212 @@
+Copyright (c) 2026  Nicat Valizada,Amrah Ibadzada
+All rights reserved.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+PROPRIETARY SOURCE-AVAILABLE LICENSE WITH PATENT RESERVATION
+Version 1.0
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+IMPORTANT — READ CAREFULLY BEFORE USING, COPYING, OR DISTRIBUTING
+THIS SOFTWARE. BY ACCESSING OR USING THIS SOFTWARE, YOU AGREE TO
+BE BOUND BY THE TERMS OF THIS LICENSE.
+
+────────────────────────────────────────────────────────────────
+SECTION 1 — DEFINITIONS
+────────────────────────────────────────────────────────────────
+
+"Software" means all source code, object code, documentation,
+configuration files, and any other materials contained in this
+repository, including any modifications or derivative works.
+
+"Licensor" means [AD SOYAD / FULL NAME], the original author and
+sole copyright and patent rights holder of the Software.
+
+"Licensee" or "You" means any individual or legal entity accessing,
+downloading, using, or otherwise interacting with the Software.
+
+"Commercial Use" means any use, reproduction, modification,
+distribution, or deployment of the Software, directly or indirectly,
+for financial gain, monetary compensation, commercial advantage, or
+in connection with any product or service offered for a fee.
+
+"Derivative Work" means any work that is based on or derived from
+the Software, including modifications, adaptations, translations,
+and software that incorporates the Software in whole or in part.
+
+────────────────────────────────────────────────────────────────
+SECTION 2 — GRANT OF LIMITED LICENSE
+────────────────────────────────────────────────────────────────
+
+Subject to the terms and conditions of this License, the Licensor
+hereby grants You a non-exclusive, non-transferable, non-sublicensable,
+revocable, royalty-free license solely to:
+
+  (a) View and read the source code for personal study or evaluation;
+
+  (b) Use the Software for personal, non-commercial purposes only;
+
+  (c) Use the Software for educational or academic research purposes,
+      provided that any publication or presentation credits the
+      Licensor by name.
+
+This License does NOT grant You any rights not expressly stated
+herein. All rights not explicitly granted are reserved by the Licensor.
+
+────────────────────────────────────────────────────────────────
+SECTION 3 — INTELLECTUAL PROPERTY AND PATENT RESERVATION
+────────────────────────────────────────────────────────────────
+
+3.1  COPYRIGHT. The Software is protected by copyright law. The
+     Licensor retains full and exclusive copyright ownership of the
+     Software and all Derivative Works.
+
+3.2  PATENT RIGHTS RESERVED. The Licensor expressly reserves all
+     patent rights. No patent license is granted under this License.
+     You may NOT apply for, register, or claim any patent, utility
+     model, or similar industrial property right based on or derived
+     from the Software, any method, algorithm, or process implemented
+     in the Software, or any Derivative Work thereof, in any country
+     or jurisdiction worldwide.
+
+3.3  PATENT NON-AGGRESSION. If You or any entity You control asserts
+     a patent claim against the Licensor alleging that the Software
+     infringes a patent, your license under this Agreement shall
+     terminate automatically and immediately.
+
+3.4  TRADE SECRETS. The structure, logic, and implementation details
+     of the Software constitute valuable trade secrets of the Licensor.
+
+────────────────────────────────────────────────────────────────
+SECTION 4 — PROHIBITED USES
+────────────────────────────────────────────────────────────────
+
+The following are STRICTLY PROHIBITED without prior written
+authorization from the Licensor:
+
+  (a) SELLING OR MONETIZING — Selling, licensing, sublicensing,
+      renting, leasing, offering as a paid service (including
+      SaaS, subscription, or pay-per-use models), or otherwise
+      transferring the Software or any Derivative Work for value;
+
+  (b) COMMERCIAL INTEGRATION — Incorporating the Software, in whole
+      or in part, into any commercial product, service, or platform;
+
+  (c) REDISTRIBUTION FOR PROFIT — Distributing the Software or
+      Derivative Works as part of a paid bundle, package, or offering;
+
+  (d) PATENT FILING — Filing patent applications covering inventions
+      that are disclosed or embodied in the Software;
+
+  (e) OWNERSHIP CLAIMS — Representing the Software or any portion
+      thereof as Your own intellectual property;
+
+  (f) SUBLICENSING — Granting any third party rights to the Software
+      beyond those expressly permitted herein.
+
+────────────────────────────────────────────────────────────────
+SECTION 5 — CONDITIONS FOR PERMITTED REDISTRIBUTION
+────────────────────────────────────────────────────────────────
+
+If permitted redistribution occurs under Section 2(c), You must:
+
+  (a) Include this License in its entirety, unmodified, with any
+      copy or substantial portion of the Software;
+
+  (b) Prominently display the following attribution in all copies:
+      "Originally developed by [AD SOYAD]. All rights reserved.";
+
+  (c) Not remove, alter, or obscure any copyright, patent, trademark,
+      or attribution notices in the Software;
+
+  (d) Distribute any Derivative Works under the same terms and
+      conditions as this License.
+
+────────────────────────────────────────────────────────────────
+SECTION 6 — ENFORCEMENT AND REMEDIES
+────────────────────────────────────────────────────────────────
+
+6.1  AUTOMATIC TERMINATION. Any use of the Software in violation of
+     this License immediately and automatically terminates your rights
+     under this License without notice from the Licensor.
+
+6.2  INJUNCTIVE RELIEF. You acknowledge that breach of this License
+     would cause irreparable harm to the Licensor for which monetary
+     damages would be inadequate, and that the Licensor is entitled
+     to seek equitable relief, including injunction and specific
+     performance, without the obligation to post bond or other
+     security.
+
+6.3  DAMAGES. In addition to injunctive relief, the Licensor reserves
+     the right to claim all actual damages, lost profits, statutory
+     damages, and attorneys' fees arising from any unauthorized use.
+
+6.4  AUDIT RIGHTS. The Licensor reserves the right to audit
+     compliance with this License upon reasonable notice.
+
+────────────────────────────────────────────────────────────────
+SECTION 7 — DISCLAIMER OF WARRANTIES
+────────────────────────────────────────────────────────────────
+
+THE SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES
+OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, AND
+NON-INFRINGEMENT. THE LICENSOR MAKES NO WARRANTY THAT THE SOFTWARE
+WILL BE ERROR-FREE, SECURE, OR UNINTERRUPTED.
+
+────────────────────────────────────────────────────────────────
+SECTION 8 — LIMITATION OF LIABILITY
+────────────────────────────────────────────────────────────────
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT
+SHALL THE LICENSOR BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL,
+EXEMPLARY, OR CONSEQUENTIAL DAMAGES ARISING OUT OF OR IN CONNECTION
+WITH THE USE OR INABILITY TO USE THE SOFTWARE, EVEN IF ADVISED OF
+THE POSSIBILITY OF SUCH DAMAGES.
+
+────────────────────────────────────────────────────────────────
+SECTION 9 — GOVERNING LAW AND JURISDICTION
+────────────────────────────────────────────────────────────────
+
+9.1  This License shall be governed by and construed in accordance
+     with the laws of the Republic of Azerbaijan, without regard
+     to its conflict of law provisions.
+
+9.2  The parties irrevocably submit to the exclusive jurisdiction
+     of the courts of the Republic of Azerbaijan for resolution
+     of any dispute arising out of or relating to this License.
+
+9.3  This License is also intended to be enforceable under:
+     — The Berne Convention for the Protection of Literary and
+       Artistic Works;
+     — The WIPO Copyright Treaty (WCT);
+     — The Agreement on Trade-Related Aspects of Intellectual
+       Property Rights (TRIPS).
+
+────────────────────────────────────────────────────────────────
+SECTION 10 — GENERAL PROVISIONS
+────────────────────────────────────────────────────────────────
+
+10.1 ENTIRE AGREEMENT. This License constitutes the entire agreement
+     between the parties with respect to the Software and supersedes
+     all prior negotiations, representations, and agreements.
+
+10.2 SEVERABILITY. If any provision of this License is held invalid
+     or unenforceable, the remaining provisions shall continue in
+     full force and effect.
+
+10.3 NO WAIVER. Failure to enforce any provision of this License
+     shall not constitute a waiver of future enforcement.
+
+10.4 MODIFICATIONS. The Licensor reserves the right to release future
+     versions of this License. Continued use of the Software
+     constitutes acceptance of any updated terms.
+
+────────────────────────────────────────────────────────────────
+
+For licensing inquiries, commercial use requests, or permissions
+beyond the scope of this License, contact:
+
+  Names:  Nicat Valizada,Amrah Ibadzada
+  Emails: nicat.valizada0@gmail.com,emrahibadzade5@gmail.com
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
