@@ -1,0 +1,16 @@
+{
+  "name": "akademik-project",
+  "private": true,
+  "workspaces": ["apps/*", "packages/*"],
+  "scripts": {
+    "fix:bin-perms": "node scripts/fix-bin-permissions.mjs",
+    "postinstall": "npm run fix:bin-perms && npm run build -w @akademik/shared",
+    "dev": "node ./node_modules/concurrently/dist/bin/concurrently.js -n server,client -c blue,green \"npm run dev -w @akademik/server\" \"npm run dev -w @akademik/client\"",
+    "build": "npm run build -w @akademik/shared && npm run build -w @akademik/server && npm run build -w @akademik/client",
+    "typecheck": "npm run typecheck -w @akademik/shared && npm run typecheck -w @akademik/server && npm run typecheck -w @akademik/client"
+  },
+  "devDependencies": {
+    "concurrently": "^9.1.2",
+    "typescript": "^5.7.3"
+  }
+}
