@@ -14,26 +14,8 @@ Bu repo `npm workspaces` ilə qurulmuş monorepo-dur:
 - `apps/server` - Node.js + Express (API)
 - `packages/shared` - TypeScript tipləri və Zod validasiyası (client/server ortaq)
 
-## Ekran görüntüləri
-
-Layihənin şəkillərini `docs/images/` qovluğuna əlavə edib aşağıdakı linkləri real fayl adları ilə saxlaya bilərsiniz. Şəxsi məlumat görünməməsi üçün screenshot götürməzdən əvvəl real email, API açarı, MongoDB connection string və şəxsi istifadəçi datalarını gizlədin.
-
-| Bölmə | Şəkil |
-| --- | --- |
-| Giriş səhifəsi | `docs/images/login.png` |
-| Dashboard | `docs/images/dashboard.png` |
-| Məqalələr siyahısı | `docs/images/articles.png` |
-| Məqalə editoru | `docs/images/article-editor.png` |
-| Test yaratma | `docs/images/test-create.png` |
-| Test həll etmə | `docs/images/test-detail.png` |
-
-Şəkilləri əlavə etdikdən sonra bu nümunə formatdan istifadə edin:
-
-```md
-![Dashboard](docs/images/dashboard.png)
-```
-
 ## Əsas funksiyalar
+![Dashboard](docs/images/login.png)
 
 ### 1) Giriş və rollar
 
@@ -46,16 +28,17 @@ Layihənin şəkillərini `docs/images/` qovluğuna əlavə edib aşağıdakı l
   - Müəllim/Tədqiqatçı: daha geniş idarəetmə və export imkanları.
 
 ### 2) Navigasiya və UI
+![Dashboard](docs/images/dashboard.png)
 
 - Sol panel (sidebar) açıq/qapalı vəziyyəti yadda saxlanır (refresh-dən sonra da qalır).
 - Navbar:
   - Cari səhifə başlığı və alt yazı (route-a görə).
-  - Saat (saniyə ilə) və Bakı hava durumu.
   - Dark/Light toggle.
   - Dekor üçün yüngül animasiyalı ikon fonu (login səhifəsindəki ikon sistemi ilə).
 - Yuxarı bildirişlər (toast): yarat/saxla/sil/bərpa kimi əməliyyatlardan sonra xəbərdarlıq.
 
 ## Məqalələr modulu
+![Dashboard](docs/images/articles.png)
 
 ### 1) Məqalələr siyahısı (`/app/articles`)
 
@@ -69,6 +52,7 @@ Layihənin şəkillərini `docs/images/` qovluğuna əlavə edib aşağıdakı l
   - Üzlük rəngi və vurğu rəngi məqalənin üzərində görünür.
 
 ### 2) Məqalə yarat / redaktə (`/app/articles/new`, `/app/articles/:id/edit`)
+![Dashboard](docs/images/article-editor.png)
 
 Məqalə editoru iki mərhələlidir:
 
@@ -128,6 +112,7 @@ Server tərəfində əlavə olaraq:
 - “Kalıcı sil” ilə birdəfəlik silmək olur.
 
 ## Testlər modulu
+![Dashboard](docs/images/test-create.png)
 
 ### 1) Testlər siyahısı (`/app/tests`)
 
@@ -185,6 +170,7 @@ Qeyd:
   - Vaxt limiti qaydası: `1 sual = 1 dəqiqə`.
 
 ### 4) Test həll etmə (`/app/tests/:id`)
+![Dashboard](docs/images/test-detail.png)
 
 - Tək sual ekranı + sağda timer paneli (vaxt varsa).
 - “Sual siyahısı” paneli:
