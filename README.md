@@ -1,6 +1,8 @@
-# Akademik Hub (akademik-project)
+<h1 align="center">Akademik Hub</h1>
 
-Akademik Hub elmi və texniki fənlər üzrə məqalə bazası və vaxt məhdudiyyətli test sistemi olan veb platformadır. Məqsəd: müəllim/tədqiqatçıların material (məqalə) yükləyib idarə etməsi, tələbələrin isə həmin materiallar əsasında testlərlə biliklərini yoxlaması və nəticəni görməsidir.
+<p>
+  Akademik Hub elmi və texniki fənlər üzrə məqalə bazası və vaxt məhdudiyyətli test sistemi olan veb platformadır. Məqsəd: müəllim/tədqiqatçıların material (məqalə) yükləyib idarə etməsi, tələbələrin isə həmin materiallar əsasında testlərlə biliklərini yoxlaması və nəticəni görməsidir.
+</p>
 
 ## Sayt üçün təqdimat mətni
 
